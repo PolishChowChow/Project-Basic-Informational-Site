@@ -1,0 +1,15 @@
+{
+  "name": "project-basic-informational-site",
+  "version": "1.0.0",
+  "description": "First app running on the server, did by following TheOdinProject course in nodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
